@@ -18,4 +18,6 @@ This is a simple web proect, deployment can be on any web server or even local f
 
 To contribute write some code, while keepingthe defination in mind.
 
-##
+## Who to contribute
+
+Anyone who who has access to the repository.
