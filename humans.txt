@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bhautik Pithadiya  	GitHub Training Scaledge
 
 # THANKS
 
