@@ -21,3 +21,7 @@ To contribute write some code, while keepingthe defination in mind.
 ## Who to contribute
 
 Anyone who who has access to the repository.
+
+##Copyright
+
+2023 Git Training.
